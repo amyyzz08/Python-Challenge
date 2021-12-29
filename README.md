@@ -42,3 +42,7 @@ The Python script will analyse the votes and calculate each of the following:
 
 The final script can be printed to an external file where the election <a href="PyPoll/analysis.txt"> results</a> will be displayed.
 
+## Copyright
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
