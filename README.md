@@ -5,7 +5,7 @@
 
 ![](images/revenue.png)
 
-The task of this section is to create a Python script for analysing the financial records of your company. The fiancial <a href="Resources/budget_data.csv" > dataset </a> contains the columns: "Date" and "Profit/Loss"
+The task of this section is to create a Python script for analysing the financial records of your company. The financial <a href="Resources/budget_data.csv" > dataset </a> contains the columns: "Date" and "Profit/Loss"
 
 The Python script will analyse the records and calculate each of the following:
 
